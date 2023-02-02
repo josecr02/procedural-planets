@@ -1,7 +1,7 @@
 # procedural-planets
  A procedural generation of planets
  
- Current status of the project: You can create the shapes of the planets, edit the radius and color. I've added noise layers to the planet generation and it's looking pretty cool!
+ Current status of the project: You can create the shapes of the planets, edit the radius and color. I've added multiple noise layers to the planet generation and improved the mesh rendering. It's looking pretty cool!
  Explanations of the code are coming soon!
  
  
