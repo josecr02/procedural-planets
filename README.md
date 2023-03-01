@@ -1,7 +1,9 @@
 # procedural-planets
  A procedural generation of planets
  
- Current status of the project: You can create the shapes of the planets, edit the radius and color. I've added multiple noise layers to the planet generation and improved the mesh rendering. In the last update I added the gradient shader to the planets. It's looking pretty cool!
+ Current status of the project: You can create the shapes of the planets, edit the radius and color. I've added multiple noise layers to the planet generation and improved the mesh rendering. In the last update I added the biomes generation, which uses different layers of the sphere to assign distinct colors. It's looking pretty cool!
+ 
+ ![Procedural Planets - SampleScene - PC, Mac   Linux Standalone - Unity 2020 3 30f1 Personal _DX11_ 01_03_2023 18_54_28](https://user-images.githubusercontent.com/88961639/222222721-c177f43d-625d-44f6-8784-4ab1ecfd22a7.png)
  
  ![Procedural Planets - SampleScene - PC, Mac   Linux Standalone - Unity 2020 3 30f1 Personal _DX11_ 09_02_2023 17_03_46](https://user-images.githubusercontent.com/88961639/217868512-2dda3606-06a3-4ea5-a8f6-5d76b798d683.png)
 
