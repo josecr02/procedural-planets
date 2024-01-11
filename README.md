@@ -1,7 +1,3 @@
-# procedural-planets
- 
- 
-
 
 # Procedural Planet Generator
 
