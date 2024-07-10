@@ -4,15 +4,27 @@
 ## Table of Contents
 + [About](#about)
 + [Getting Started](#getting_started)
-+ [Usage](#usage)
-+ [Contributing](../CONTRIBUTING.md)
++ [Prerequisites](#prerequisites)
++ [Cool photos! ](#photos)
 
 ## About <a name = "about"></a>
 A procedural generation of planets
  
 Current status of the project: You can create the shapes of the planets, edit the radius, colors, add gradients, heights, layers of terrain, and ocean depth. In the last update I added the ocean depth, and gradients before that. The generation of planets is now finished.
 
-### Cool photos of the project's progress!
+## Getting Started <a name = "getting_started"></a>
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+
+### Prerequisites <a name = "prerequisites"></a>
+
+What things you need to install the software and how to install them.
+
+```
+Unity Engine
+VSCode
+```
+
+### Cool photos of the project's progress! <a name = "photos"></a>
 
  ![Procedural Planets - SampleScene - PC, Mac   Linux Standalone - Unity 2020 3 30f1 Personal _DX11_ 02_04_2023 19_35_08](https://user-images.githubusercontent.com/88961639/229369386-904509f2-b304-4982-b4fd-ec473067b7a7.png)
  
@@ -29,16 +41,6 @@ Current status of the project: You can create the shapes of the planets, edit th
 ![Procedural Planets - SampleScene - PC, Mac   Linux Standalone - Unity 2020 3 30f1 Personal_ _DX11_ 29_01_2023 11_37_22](https://user-images.githubusercontent.com/88961639/215320626-588deb08-69e9-4c24-81ee-f982c9f8ee1b.png)
 
 
-## Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Unity Engine
-VSCode
-```
 
 
